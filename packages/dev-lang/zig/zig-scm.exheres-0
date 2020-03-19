@@ -1,0 +1,7 @@
+SUMMARY='Zig is a general-purpose programming language designed for robustness, optimality, and maintainability.'
+HOMEPAGE='ziglang.org'
+
+require cmake github [ user=ziglang ]
+
+LICENSES='MIT'
+PLATFORMS='~amd64 ~x86'
